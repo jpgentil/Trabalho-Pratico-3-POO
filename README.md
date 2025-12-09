@@ -21,5 +21,5 @@ Dessa forma, o padrão produtor-consumidor evita o desperdício de processamento
 #### Resultados com o wait/notify:
 <img width="458" height="211" alt="Imagem2" src="https://github.com/user-attachments/assets/daf883c9-a4fe-4420-ae05-dd50bf7362ab" />
 
-####Resultados com o semáforo:
+#### Resultados com o semáforo:
 <img width="393" height="475" alt="Imagem3" src="https://github.com/user-attachments/assets/06c4f139-fe38-43f2-900a-a60a58a03f68" />
